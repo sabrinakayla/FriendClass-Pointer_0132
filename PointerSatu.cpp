@@ -20,3 +20,5 @@ int main() {
     mahasiswa *pMhs = &mhs; 
     pMhs->nim = 3;          
     pMhs->showNim();
+    return 0;
+}
